@@ -1,0 +1,39 @@
+md_readme_path: "README.md"
+access_token:
+cache:
+    enabled: false
+    path: "cache/"
+    max_age: 86400
+    max_size: 1000000
+    max_files: 1000
+
+# keywords to search
+keywords:
+    "chatgpt":
+        enabled: true
+        topk: 30
+        min_stars: 10
+        lang: [ "python" ]
+        created: ">2023-01-01"
+        updated: none
+        sort: [ "stars", "updated" ]
+        order: "desc"
+
+    "segment anything":
+        enabled: true
+        topk: 30
+        min_stars: 10
+        lang: ["python"]
+        created: ">2023-01-01"
+        updated: none
+        sort: ["stars", "updated"]
+        order: "desc"
+    "llama":
+        enabled: true
+        topk: 30
+        min_stars: 10
+        lang: ["python"]
+        created: ">2023-03-01"
+        updated: none
+        sort: ["stars", "updated"]
+        order: "desc"
