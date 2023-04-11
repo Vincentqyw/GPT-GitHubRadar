@@ -17,7 +17,7 @@ env:
 
   GITHUB_USER_NAME: ${{ secrets.USER_NAME }}
   GITHUB_USER_EMAIL: ${{ secrets.EMAIL }}
-  
+  GITHUB_ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -44,7 +44,7 @@ jobs:
           
       - name: Run daily search github 
         run: |
-          python github_radar.py ----github_token ${{ secrets.ACCESS_TOKEN }}
+          python github_radar.py ----github_token ${{ env.GITHUB_ACCESS_TOKEN }}
           
       - name: Push new README.md
         uses: github-actions-x/commit@v2.9
