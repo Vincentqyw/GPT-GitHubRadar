@@ -12,22 +12,22 @@
 
 | Name | Description | Stars | Updated |
 | --- | --- | --- | --- |
-| [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) | Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models | 30465 | 2023-04-11-16:30:40 |
-| [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) | 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown代码块表格显示，Tex公式双显示，新增Python/C++/Go项目树剖析功能/项目源代码自译解能力，PDF论文全文翻译/总结功能，3.0版本积极兼容ChatGLM等本地模型 | 25812 | 2023-04-11-16:36:03 |
+| [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) | Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models | 30466 | 2023-04-11-16:39:23 |
+| [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) | 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown代码块表格显示，Tex公式双显示，新增Python/C++/Go项目树剖析功能/项目源代码自译解能力，PDF论文全文翻译/总结功能，3.0版本积极兼容ChatGLM等本地模型 | 25813 | 2023-04-11-16:38:09 |
 | [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) | 用 Express 和  Vue3 搭建的 ChatGPT 演示网页 | 16654 | 2023-04-11-16:10:28 |
 | [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。 | 14952 | 2023-04-11-16:33:42 |
-| [openai-translator](https://github.com/yetone/openai-translator) | 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API. | 14338 | 2023-04-11-16:16:48 |
+| [openai-translator](https://github.com/yetone/openai-translator) | 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API. | 14339 | 2023-04-11-16:38:07 |
 | [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) | The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language. | 13730 | 2023-04-11-16:36:59 |
-| [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) | An open source ChatGPT UI. | 9661 | 2023-04-11-16:37:10 |
+| [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) | An open source ChatGPT UI. | 9662 | 2023-04-11-16:39:12 |
 | [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) | GUI for ChatGPT API and any LLM | 8591 | 2023-04-11-16:21:02 |
 | [ChatPaper](https://github.com/kaixindelele/ChatPaper) | Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复 | 8493 | 2023-04-11-16:19:01 |
 | [carrot](https://github.com/xx025/carrot) | Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点 | 7600 | 2023-04-11-16:35:07 |
 | [chatbox](https://github.com/Bin-Huang/chatbox) | the Ultimate Copilot on Your Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux. | 7537 | 2023-04-11-16:23:56 |
 | [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) | A demo repo based on OpenAI API. | 6261 | 2023-04-11-16:14:25 |
-| [chatGPTBox](https://github.com/josStorer/chatGPTBox) | Integrating ChatGPT into your browser deeply, everything you need is here | 6075 | 2023-04-11-16:24:14 |
+| [chatGPTBox](https://github.com/josStorer/chatGPTBox) | Integrating ChatGPT into your browser deeply, everything you need is here | 6076 | 2023-04-11-16:38:09 |
 | [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) | ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source. | 5676 | 2023-04-11-16:20:12 |
 | [EdgeGPT](https://github.com/acheong08/EdgeGPT) | Reverse engineered API of Microsoft's Bing Chat AI | 5305 | 2023-04-11-16:16:38 |
-| [BingGPT](https://github.com/dice2o/BingGPT) | Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux) | 4612 | 2023-04-11-16:37:40 |
+| [BingGPT](https://github.com/dice2o/BingGPT) | Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux) | 4613 | 2023-04-11-16:39:03 |
 | [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) | 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！ | 4384 | 2023-04-11-15:32:12 |
 | [awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) | Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota. | 4160 | 2023-04-11-14:55:25 |
 | [shell_gpt](https://github.com/TheR1D/shell_gpt) | A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently. | 4042 | 2023-04-11-16:33:44 |
@@ -47,6 +47,7 @@
 | Name | Description | Stars | Updated |
 | --- | --- | --- | --- |
 | [Python-PPTX-ChatGPT-Presentation-Generator](https://github.com/AmNotAGoose/Python-PPTX-ChatGPT-Presentation-Generator) | None | 3 | 2023-04-05-19:02:01 |
+| [ChatGPT_api](https://github.com/Charu117/ChatGPT_api) | app created using chatGPT | 0 | 2023-03-22-14:15:29 |
 | [org-assistant](https://github.com/tyler-dodge/org-assistant) | Org babel extension for Chat Assistant APIs such as ChatGPT | 0 | 2023-04-11-06:38:54 |
 | [griptape-core](https://github.com/griptape-ai/griptape-core) | Python framework for LLM middleware tools. Build once, run anywhere: LangChain, ChatGPT Plugins, Fixie.ai, etc. | 4 | 2023-04-10-14:51:08 |
 | [chatgpt-voice](https://github.com/jeffMeador/chatgpt-voice) | None | 0 | 2023-04-11-05:18:16 |
@@ -56,7 +57,7 @@
 | [chatgpt](https://github.com/jarlyn95/chatgpt) | chatgpt web访问 | 0 | 2023-04-11-16:08:13 |
 | [Cyberpunk-ChatGPT-Terminal-Bot](https://github.com/kvn13github/Cyberpunk-ChatGPT-Terminal-Bot) | ChatGPT bot from the year 2099 answers your questions in the console terminal. | 0 | 2023-04-11-16:33:33 |
 | [wechat-chatgpt3](https://github.com/laihuamin/wechat-chatgpt3) | None | 0 | 2023-03-15-13:48:33 |
-| [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) | 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown代码块表格显示，Tex公式双显示，新增Python/C++/Go项目树剖析功能/项目源代码自译解能力，PDF论文全文翻译/总结功能，3.0版本积极兼容ChatGLM等本地模型 | 25812 | 2023-04-11-16:36:03 |
+| [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) | 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown代码块表格显示，Tex公式双显示，新增Python/C++/Go项目树剖析功能/项目源代码自译解能力，PDF论文全文翻译/总结功能，3.0版本积极兼容ChatGLM等本地模型 | 25813 | 2023-04-11-16:38:09 |
 | [chat_bot_gpt](https://github.com/Bru-marques/chat_bot_gpt) | A chat bot flutter app using ChatGPT | 0 | 2023-04-11-16:32:55 |
 | [llm-hub](https://github.com/mallahyari/llm-hub) | A curated collection of interesting applications, repos, and tutorials using large language models (LLM) like GPT-3 | 17 | 2023-04-11-05:59:50 |
 | [LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) | A collection of papers and resources related to Large Language Models. | 473 | 2023-04-11-16:26:18 |
@@ -75,13 +76,12 @@
 | [ChatGPT-On-WeChat](https://github.com/haowubai123/ChatGPT-On-WeChat) | None | 0 | 2023-04-11-16:25:57 |
 | [ABSA-GPT](https://github.com/gnmarten/ABSA-GPT) | ChatGPT/GPT-3-based Aspect-Based Sentiment Analysis | 0 | 2023-04-11-16:24:56 |
 | [MyChatGPT-with-OpenAI](https://github.com/KhairiYusoff/MyChatGPT-with-OpenAI) |  Chat App with NEW ChatGPT API | 0 | 2023-04-11-16:03:24 |
-| [chatgpt](https://github.com/salahjaafar/chatgpt) | None | 0 | 2023-04-11-16:24:16 |
 ## Segment Anything
 - Sort by: Stars
 
 | Name | Description | Stars | Updated |
 | --- | --- | --- | --- |
-| [segment-anything](https://github.com/facebookresearch/segment-anything) | The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. | 24019 | 2023-04-11-16:37:32 |
+| [segment-anything](https://github.com/facebookresearch/segment-anything) | The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. | 24020 | 2023-04-11-16:38:14 |
 | [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) | Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP & Whisper - Automatically Detect , Segment and Generate Anything with Image, Text, and Speech Inputs | 4562 | 2023-04-11-16:31:00 |
 | [EditAnything](https://github.com/sail-sg/EditAnything) | Edit anything in images  powered by segment-anything, ControlNet, StableDiffusion, etc. | 788 | 2023-04-11-16:23:30 |
 | [segment-anything-video](https://github.com/kadirnar/segment-anything-video) | MetaSeg: Packaged version of the Segment Anything repository | 322 | 2023-04-11-16:17:16 |
@@ -115,6 +115,7 @@
 
 | Name | Description | Stars | Updated |
 | --- | --- | --- | --- |
+| [segment-anything-and-name-it](https://github.com/Cheems-Seminar/segment-anything-and-name-it) | Segment Anything and Name It.       Let's go, Cheems! | 97 | 2023-04-11-16:24:46 |
 | [SAM-SD](https://github.com/xavierdebeaumont/SAM-SD) | Segment Anything (SAM) used with Stable Diffusion 2 in a little webapp to modify only the selected segment of an image. | 0 | 2023-04-11-15:54:18 |
 | [Awesome-Segment-Anything](https://github.com/lychees/Awesome-Segment-Anything) | None | 3 | 2023-04-11-15:30:29 |
 | [segment_anything_webui](https://github.com/5663015/segment_anything_webui) | A simple Segment Anything WebUI based on Gradio. | 4 | 2023-04-11-03:52:15 |
@@ -137,8 +138,7 @@
 | [salt](https://github.com/anuragxel/salt) | Segment Anything Labelling Tool | 149 | 2023-04-11-16:12:05 |
 | [grounded-segment-anything-colab](https://github.com/camenduru/grounded-segment-anything-colab) | None | 16 | 2023-04-11-15:54:23 |
 | [segment-anything-u-specify](https://github.com/MaybeShewill-CV/segment-anything-u-specify) | using clip and sam to segment any instance you specify | 8 | 2023-04-11-11:21:12 |
-| [segment-anything](https://github.com/facebookresearch/segment-anything) | The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. | 24019 | 2023-04-11-16:37:32 |
-| [segment-anything-and-name-it](https://github.com/Cheems-Seminar/segment-anything-and-name-it) | Segment Anything and Name It.       Let's go, Cheems! | 97 | 2023-04-11-16:24:46 |
+| [segment-anything](https://github.com/facebookresearch/segment-anything) | The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. | 24020 | 2023-04-11-16:38:14 |
 | [serve-segment-anything-model](https://github.com/supervisely-ecosystem/serve-segment-anything-model) | None | 0 | 2023-04-07-13:42:18 |
 | [EditAnything](https://github.com/sail-sg/EditAnything) | Edit anything in images  powered by segment-anything, ControlNet, StableDiffusion, etc. | 788 | 2023-04-11-16:23:30 |
 | [segment_anything_gui](https://github.com/huang1332/segment_anything_gui) | 基于meta的segment anything的抠图工具，使用opencv制作的gui。segment anything, gui made with opencv | 7 | 2023-04-11-15:17:22 |
@@ -150,10 +150,10 @@
 
 | Name | Description | Stars | Updated |
 | --- | --- | --- | --- |
-| [llama.cpp](https://github.com/ggerganov/llama.cpp) | Port of Facebook's LLaMA model in C/C++ | 21770 | 2023-04-11-16:33:42 |
+| [llama.cpp](https://github.com/ggerganov/llama.cpp) | Port of Facebook's LLaMA model in C/C++ | 21771 | 2023-04-11-16:38:29 |
 | [dalai](https://github.com/cocktailpeanut/dalai) | The simplest way to run LLaMA on your local machine | 9790 | 2023-04-11-16:11:45 |
 | [alpaca-lora](https://github.com/tloen/alpaca-lora) | Instruct-tune LLaMA on consumer hardware | 9238 | 2023-04-11-16:28:53 |
-| [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) | 中文LLaMA&Alpaca大语言模型+本地CPU部署 (Chinese LLaMA & Alpaca LLMs) | 4127 | 2023-04-11-16:24:40 |
+| [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) | 中文LLaMA&Alpaca大语言模型+本地CPU部署 (Chinese LLaMA & Alpaca LLMs) | 4128 | 2023-04-11-16:39:20 |
 | [BELLE](https://github.com/LianjiaTech/BELLE) | BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型） | 3727 | 2023-04-11-16:36:34 |
 | [serge](https://github.com/nsarrazin/serge) | A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API. | 3496 | 2023-04-11-15:25:18 |
 | [llama-rs](https://github.com/rustformers/llama-rs) | Run LLaMA inference on CPU, with Rust 🦀🚀🦙 | 2603 | 2023-04-11-16:08:19 |
@@ -168,7 +168,7 @@
 | [llama-chat](https://github.com/randaller/llama-chat) | Chat with Meta's LLaMA models at home made easy | 576 | 2023-04-11-07:23:00 |
 | [Chinese-ChatLLaMA](https://github.com/ydli-ai/Chinese-ChatLLaMA) | 中文LLaMA基础模型；中文ChatLLaMA对话模型；NLP预训练/指令微调数据集 | 539 | 2023-04-11-15:26:50 |
 | [pyllamacpp](https://github.com/nomic-ai/pyllamacpp) | Official supported Python bindings for llama.cpp + gpt4all | 525 | 2023-04-11-16:29:39 |
-| [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) | Python bindings for llama.cpp | 444 | 2023-04-11-16:25:05 |
+| [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) | Python bindings for llama.cpp | 445 | 2023-04-11-16:38:53 |
 | [LLaMA_MPS](https://github.com/jankais3r/LLaMA_MPS) | Run LLaMA (and Stanford-Alpaca) inference on Apple Silicon GPUs. | 443 | 2023-04-11-13:24:05 |
 | [minimal-llama](https://github.com/zphang/minimal-llama) | None | 357 | 2023-04-11-09:31:41 |
 | [unit-minions](https://github.com/unit-mesh/unit-minions) | 《AI 研发提效研究：自己动手训练 LoRA》，包含 Llama  （Alpaca LoRA）模型、ChatGLM （ChatGLM Tuning）相关 Lora 的训练。训练内容：用户故事生成、测试代码生成、代码辅助生成、文本转 SQL、文本生成代码…… | 335 | 2023-04-11-16:20:15 |
@@ -189,13 +189,13 @@
 | [coypu-turbo](https://github.com/semantic-systems/coypu-turbo) | An aggregated platform for different versions of Llamas | 0 | 2023-04-03-13:01:52 |
 | [llama-node](https://github.com/hlhr202/llama-node) | Believe in AI democratization. llama for nodejs backed by llama-rs, work locally on your laptop CPU. support llama/alpaca model. | 155 | 2023-04-11-15:32:54 |
 | [llama_ros](https://github.com/mgonzs13/llama_ros) | llama.cpp for ROS 2 | 18 | 2023-04-06-13:27:56 |
-| [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) | 中文LLaMA&Alpaca大语言模型+本地CPU部署 (Chinese LLaMA & Alpaca LLMs) | 4127 | 2023-04-11-16:24:40 |
-| [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) | Python bindings for llama.cpp | 444 | 2023-04-11-16:25:05 |
+| [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) | 中文LLaMA&Alpaca大语言模型+本地CPU部署 (Chinese LLaMA & Alpaca LLMs) | 4128 | 2023-04-11-16:39:20 |
+| [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) | Python bindings for llama.cpp | 445 | 2023-04-11-16:38:53 |
 | [LLaMA-Counseling-LORA-Finetuning](https://github.com/kkotsche1/LLaMA-Counseling-LORA-Finetuning) | Google colab notebook used to LORA finetune a LLaMA (or LLaMA variant) model with a correctly formatted dataset | 0 | 2023-04-11-15:42:49 |
 | [llama-index](https://github.com/ParmarRakesh/llama-index) | None | 0 | 2023-04-11-15:39:30 |
 | [Counseling-Transcript-Dataset-Creation-LLaMA](https://github.com/kkotsche1/Counseling-Transcript-Dataset-Creation-LLaMA) | Scraping and data processing creating a dataset of approximately 25k client/therapist interaction turns for training of LLaMA and derivative models | 0 | 2023-04-11-15:38:42 |
 | [my-llama](https://github.com/edp1096/my-llama) | Llama LLM runner and webui. MS-Windows only | 0 | 2023-04-10-15:59:42 |
-| [llama.cpp](https://github.com/ggerganov/llama.cpp) | Port of Facebook's LLaMA model in C/C++ | 21770 | 2023-04-11-16:33:42 |
+| [llama.cpp](https://github.com/ggerganov/llama.cpp) | Port of Facebook's LLaMA model in C/C++ | 21771 | 2023-04-11-16:38:29 |
 | [BELLE](https://github.com/LianjiaTech/BELLE) | BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型） | 3727 | 2023-04-11-16:36:34 |
 | [allamo](https://github.com/chrisociepa/allamo) | Simple, hackable and fast implementation for training/finetuning medium-sized LLaMA-based models | 79 | 2023-04-09-00:15:40 |
 | [LLaMA-Cult-and-More](https://github.com/shm007g/LLaMA-Cult-and-More) | Keeping Track of Affordable Language Models, 🦙 Cult and More | 17 | 2023-04-11-15:08:33 |
