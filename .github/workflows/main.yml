@@ -44,7 +44,7 @@ jobs:
           
       - name: Run daily search github 
         run: |
-          python github_radar.py ----github_token ${{ env.GITHUB_ACCESS_TOKEN }}
+          python github_radar.py ----access_token ${{ env.GITHUB_ACCESS_TOKEN }}
           
       - name: Push new README.md
         uses: github-actions-x/commit@v2.9
